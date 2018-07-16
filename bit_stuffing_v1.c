@@ -1,3 +1,6 @@
+/*
+@Author Thomas A.K.L.
+*/
 
 #include <stdio.h>
 #include <unistd.h>
