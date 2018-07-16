@@ -3,5 +3,7 @@ C code to implement popular computer networks algorithms.
 
 
 -----------------
-by Thomas A.K.L.
------------------
+
+*by Thomas A.K.L.*
+
+
